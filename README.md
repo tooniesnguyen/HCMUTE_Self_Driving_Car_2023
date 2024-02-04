@@ -16,6 +16,13 @@ year = {2023}
 - [x] Detect and control car traffic signs and obstacles 
 
 
+## Methods
+### Lane Segmentation: UNET 
+![image](./images/unet.jpg)
+
+### Object Detection: YoloV8 
+![image](./images/yolov8.png)
+
 
 ## Reward
 ![image](./images/reward.jpg)
